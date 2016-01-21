@@ -16,3 +16,5 @@ Decrypt a message with a key:
 ```decrypt -e "543c6514dd57f85299c09672dcf4f04994bb1b160ab1d56f1517d86b4b9fb75bd3288b5d50aff88119cc1ac0b6f84fc4" -k "19601964"```
 
 See how easy that is :)
+
+[https://www.youtube.com/watch?v=gNXDNSPtV_E](Encryption-Decryption Youtube Video)
