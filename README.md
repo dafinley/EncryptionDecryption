@@ -17,4 +17,4 @@ Decrypt a message with a key:
 
 See how easy that is :)
 
-[https://www.youtube.com/watch?v=gNXDNSPtV_E](Encryption-Decryption Youtube Video)
+[https://www.youtube.com/watch?v=gNXDNSPtV_E]
